@@ -1,8 +1,8 @@
 # BinaryTree
 The executable version of your program is 'bintree'. The makefile ensures this. 
-The bintree program must supports the following usage:
+The bintree program supports the following usage:
 bintree 'infilename' 'outfilename'
-The first argument, 'infilename', is the name of a file that your program should parse to generate
+The first argument, 'infilename', is the name of a file that my program parses to generate
 the binary search tree. Each line of the input file has a string that is inserted into the binary
 search tree, which is initially empty.
 • There are no blank lines in the input file.
